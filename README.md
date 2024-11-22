@@ -1,1 +1,2 @@
 # dvp_project
+In the telecom industry, customer churn poses a significant challenge, impacting profitability and growth. The primary objective of this project is to predict customer churn using machine learning techniques. By analyzing customer data from the "Telco Customer Churn" dataset, this project aims to identify key factors contributing to churn and develop predictive models to forecast at-risk customers.
